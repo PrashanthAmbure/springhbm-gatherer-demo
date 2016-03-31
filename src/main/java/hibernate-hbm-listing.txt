@@ -1,0 +1,1 @@
+com/apkinc/core/model/Person.hbm.xml
